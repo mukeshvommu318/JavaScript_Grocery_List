@@ -6,7 +6,9 @@
 
 ### Learning 
 -> Created app Dynamically using JavaScript
+
 -> DOM Manipulations used to create the app
+
       1. createElement()
       2. getElementById()
       3. textContent property
